@@ -1,0 +1,45 @@
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\bin\Debug\1 Calculator.exe.config
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\bin\Debug\1 Calculator.exe
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\bin\Debug\1 Calculator.pdb
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.csproj.AssemblyReference.cache
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\App.g.cs
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator_MarkupCompile.cache
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator_MarkupCompile.lref
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\MainWindow.baml
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.g.resources
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\_1_Calculator.Properties.Resources.resources
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.csproj.GenerateResource.cache
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.exe
+C:\Users\fff\Desktop\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.pdb
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.csproj.AssemblyReference.cache
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\App.g.cs
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator_MarkupCompile.cache
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator_MarkupCompile.lref
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.exe
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.pdb
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\bin\Debug\1 Calculator.exe.config
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\bin\Debug\1 Calculator.exe
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\bin\Debug\1 Calculator.pdb
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\MainWindow.baml
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.g.resources
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\_1_Calculator.Properties.Resources.resources
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.csproj.GenerateResource.cache
+C:\Users\fff\Documents\calculator-wpf-main\1 Calculator\obj\Debug\1 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fff\Documents\calculator\1 Calculator\bin\Debug\1 Calculator.exe.config
+C:\Users\fff\Documents\calculator\1 Calculator\bin\Debug\1 Calculator.exe
+C:\Users\fff\Documents\calculator\1 Calculator\bin\Debug\1 Calculator.pdb
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\1 Calculator.csproj.AssemblyReference.cache
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\App.g.cs
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\1 Calculator_MarkupCompile.cache
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\1 Calculator_MarkupCompile.lref
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\MainWindow.baml
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\1 Calculator.g.resources
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\_1_Calculator.Properties.Resources.resources
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\1 Calculator.csproj.GenerateResource.cache
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\1 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\1 Calculator.exe
+C:\Users\fff\Documents\calculator\1 Calculator\obj\Debug\1 Calculator.pdb
